@@ -11,3 +11,5 @@ The primary purpose of this system is to facilitate the management of inventory 
 •	Orders: Create and track orders placed by customers.
 •	Suppliers: Keep records of suppliers for each item.
 
+# Pricing:
+You can put a Product that will cost Hundereds only, This IMS is designed for small business only.
