@@ -6,7 +6,7 @@ The primary purpose of this system is to facilitate the management of inventory 
 2.	Order Management: Record and process customer orders efficiently.
 3.	Supplier Management: Store and manage supplier information to ensure smooth procurement.
    
-Key Features:
+# Key Features:
 •	Track Stock Levels: Manage current stock for each item.
 •	Orders: Create and track orders placed by customers.
 •	Suppliers: Keep records of suppliers for each item.
