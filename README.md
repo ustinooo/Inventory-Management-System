@@ -12,4 +12,5 @@ The primary purpose of this system is to facilitate the management of inventory 
 •	Suppliers: Keep records of suppliers for each item.
 
 # Pricing:
-You can put a Product that will cost Hundereds only, This IMS is designed for small business only.
+You can put a Product that will cost Hundreds only, This IMS is designed for small business only.
+Thousands of Pricing will not accept by the IMS
